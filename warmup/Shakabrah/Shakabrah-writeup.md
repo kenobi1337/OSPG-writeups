@@ -161,7 +161,7 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 ```bash
 -rwsr-sr-x 1 root root 1234376 Feb 24  2021 /bin/bash
 ```
-- Now we can use [[gtfobins.github.io]] as a reference for SUID bit perm on `/bin/bash`
+- Now we can use [[https://gtfobins.github.io]] as a reference for SUID bit perm on `/bin/bash`
 - If you an experienced pen-tester, we already know we can run `/bin/bash -p` to spawn shell with SUID privilege.
 ```bash
 www-data@shakabrah:/$ /bin/bash -p
