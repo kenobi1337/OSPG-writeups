@@ -145,7 +145,7 @@ Successfully Logged in
 ## PRIVILEGE ESCALATION
 ---
 
-- Perform basic local enumrations
+- Perform basic local enumerations
 
 ### Possible escalate routes
 - SUID
