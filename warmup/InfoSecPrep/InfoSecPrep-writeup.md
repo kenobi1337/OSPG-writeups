@@ -1,4 +1,4 @@
-# Pentest report(practice) by Chanathip (this is my first writeup btw)
+# InfoSecPrep writeup by Chanathip (this is my first writeup btw)
 ## Info-Sheet
 
 - IP: 192.168.184.89
@@ -145,7 +145,7 @@ Successfully Logged in
 ## PRIVILEGE ESCALATION
 ---
 
-- Perform basic local enumrations
+- Perform basic local enumerations
 
 ### Possible escalate routes
 - SUID
