@@ -1,4 +1,4 @@
-# Pentest report(practice) by Chanathip (this is my first writeup btw)
+# InfoSecPrep writeup by Chanathip (this is my first writeup btw)
 ## Info-Sheet
 
 - IP: 192.168.184.89
