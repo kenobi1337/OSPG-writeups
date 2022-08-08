@@ -3,7 +3,7 @@
 --------------------------------
 
 ## Info-sheet
-- IP-address: 192.168.29.151
+- IP-address: 192.168.120.69
 - DNS-Domain name: N/A
 - Host name: Inclusiveness
 - OS: Linux
@@ -15,7 +15,7 @@ This box is good box that demonstrate common web dev vulns, gaining access by ex
 -------
 Services and ports:
 ```bash
-kenobi@kenobi-attackbox:~$ sudo nmap -A -p 21,22,80 192.168.120.69
+kenobi@kenobi-attackbox:~$ sudo nmap -A 192.168.120.69
 Starting Nmap 7.80 ( https://nmap.org ) at 2020-03-16 10:27 EDT
 Nmap scan report for 192.168.120.69
 Host is up (0.030s latency).
